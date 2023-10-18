@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <h1 align="center"> Prueba de concepto basado en el juego Diablo, para desarrollar microservicios </h1>
 <p align="center">
@@ -34,7 +33,3 @@ Estamos comprometidos con un desarrollo constante para agregar nuevas funcionali
 
 ¡Gracias por tu interés en el proyecto! Esperamos que disfrutes explorando y contribuyendo!.
 
-=======
-# micro.centraliced
-Project under construction with @JBEortiz where it is about practicing relationships, microservices.
->>>>>>> 7a877855e991c22bcadb9fdaf514d62e37d117c4
