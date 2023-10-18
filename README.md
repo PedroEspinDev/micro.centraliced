@@ -5,7 +5,7 @@
 </p>
 
 ## Descripción:
-Este proyecto se centra en la de una API relacionada con otras APIS para poder generar un conjunto de peticiones HTTP de una API a otra, basadas en un juego de estrategia.
+Este proyecto se centra en la de una API relacionada con otras APIS basadas en un juego de estrategia para poder generar una estructura de microservicios.
 
 Este proyecto es sólo una parte, el proyecto restante se encuentra en [@JBEortiz](https://github.com/JBEortiz/Spring-diablo-concepttest) click, para ver el resto.
 
