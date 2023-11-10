@@ -1,11 +1,11 @@
 
-<h1 align="center"> Prueba de concepto basado en el juego Diablo, para desarrollar microservicios </h1>
+<h1 align="center"> Prueba de concepto basado en el juego Diablo </h1>
 <p align="center">
   <img width="300px" src="https://mms.businesswire.com/media/20230606005812/en/1812120/5/Diablo_IV_Logo.jpg" align="center" alt=" " />
 </p>
 
 ## Descripción:
-Este proyecto se centra en la de una API relacionada con otras APIS basadas en un juego de estrategia para poder generar una estructura de microservicios.
+El proyecto se basa en Diablo un juego de rol-estrategia, donde simulamos el concepto del inventario con el personaje, encontraremos dos estructuras monolíticas, de manera que se relacionen entre sí agrandando la aplicación con la futura implementación de microservicios acorde a los demás elementos del juego.
 
 Este proyecto es sólo una parte, el proyecto restante se encuentra en [@JBEortiz](https://github.com/JBEortiz/Spring-diablo-concepttest) click, para ver el resto.
 
